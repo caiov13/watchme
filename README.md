@@ -34,6 +34,6 @@ $ yarn dev ou npm run dev
 ```
 
 ### Tecnologias 🛠
-* React
+* ReactJS
 * Typescript
 * Sass
