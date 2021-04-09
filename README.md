@@ -18,7 +18,7 @@ Primeiro você precisa ter instalado na sua máquina as ferramentas: Git, Node.j
 $ git clone https://github.com/caiov13/watchme.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd desafio-conceitos-do-react
+$ cd watchme
 
 # Instale as dependências
 $ yarn ou npm install
