@@ -1,6 +1,6 @@
 # WatchMe
 
-### Segundo desafio do primeiro módulo da trilha de ReactJS do curso Ignite
+### Desafio 02 - Componentizando a aplicação
 
 ### 📷 Veja o Projeto
 <div align="center">
