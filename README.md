@@ -1,6 +1,6 @@
 # WatchMe
 
-## Segundo desafio da trilha de ReactJS
+### Segundo desafio do primeiro módulo da trilha de ReactJS do curso Ignite
 
 ### 📷 Veja o Projeto
 <div align="center">
