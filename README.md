@@ -23,8 +23,8 @@ $ cd watchme
 # Instale as dependências
 $ yarn ou npm install
 
-# Execute a Fake API 
-$ yarn server
+# Execute o server
+$ yarn server ou npm run server
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn dev ou npm run dev
